@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55587064901",
+    "project_id": "yamero-e33ec",
+    "storage_bucket": "yamero-e33ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55587064901:android:9ebcdd780d8a6d1bdd672c",
+        "android_client_info": {
+          "package_name": "com.example.yameroapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH7VFae4bd1CRPqD4MgXdcABlW9QEfdeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
